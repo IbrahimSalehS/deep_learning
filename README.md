@@ -4,3 +4,4 @@ Selamat datang di repositori ini! Di sini, Anda akan menemukan kumpulan file-fil
 1. Micrograd
    * Ini merupakan kode implementasi dari kelas  Deep Learning dari Andrej Karpathy
    * Notebook ini merupakan implementasi sederhana tentang bagaimana "Auto-differentiation" bekerja menggunakan numpy
+   * Disini  diimplementasikan bagaimana Forward Propagation dan Backward Propagation berikut dengan visualisasinya!
