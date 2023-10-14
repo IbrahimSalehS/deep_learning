@@ -2,8 +2,7 @@
 Selamat datang di repositori ini! Di sini, Anda akan menemukan kumpulan file-file yang mencerminkan perjalanan saya dalam memahami dan mempelajari deep learning
 
 1. Micrograd
-   * Ini merupakan kode implementasi dari kelas  Deep Learning dari Andrej Karpathy
-   * Notebook ini merupakan implementasi sederhana tentang bagaimana "Auto-differentiation" bekerja menggunakan numpy
+   * Notebook ini merupakan implementasi sederhana tentang bagaimana "Auto-differentiation" bekerja menggunakan numpy dari kelas  Deep Learning dari Andrej Karpathy
    * Disini  diimplementasikan bagaimana Forward Propagation dan Backward Propagation berikut dengan visualisasinya!
   
 2. Language Model
@@ -19,3 +18,7 @@ Selamat datang di repositori ini! Di sini, Anda akan menemukan kumpulan file-fil
        * Batchnorm and Activations
        * Backpropagation
        * Wavenet
+    
+3. NanoGPT
+   * Notebook ini merupakan implementasi dari kelas Building GPT dari Andrej Karpathy
+   * Inti dari kelas ini adalah implementasi model Tranformer dari paper "Attention is all you need" (meskipun hanya bagian decoder nya saja)
